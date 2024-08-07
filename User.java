@@ -13,5 +13,8 @@ class User
 		int d=67;
 		int e=89;
 
+		void m1(){}
+		void m2(){}
+
 	}
 }
