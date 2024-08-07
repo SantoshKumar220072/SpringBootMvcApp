@@ -10,8 +10,9 @@ class User
 		System.out.println("Hello World!");
 		System.out.println("---------------------");
 		System.out.println("**************");
-		int d=67;
-		int e=89;
+		System.out.println("---------------------");
+		System.out.println("**************");
+		
 
 	}
 }
