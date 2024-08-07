@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.santosh.web</groupId>
 	<artifactId>WebMvcUsingDevToolEx-1</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.2</version>
 	<name>WebMvcUsingDevToolEx-1</name>
 	<description>WebMvc Using DevTool</description>
 	<properties>
