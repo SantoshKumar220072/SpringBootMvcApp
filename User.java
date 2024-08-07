@@ -17,4 +17,14 @@ class User
 		void m2(){}
 
 	}
+
+	int a=56;
+	int b=67;
+
+
+
+
+
+
+	int k=87;
 }
